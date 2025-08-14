@@ -12,12 +12,12 @@ Uses the [Kaggle Credit Card Fraud Detection dataset](https://www.kaggle.com/mlg
 
 ```
 credit-card-fraud-detection/
-├── data/              # Dataset goes here
-├── notebooks/         # Jupyter notebooks for EDA and experimentation
-├── src/               # Python scripts for preprocessing, training, and prediction
-├── requirements.txt   # Python dependencies
-├── README.md          # Project documentation
-└── .gitignore         # Files/folders to ignore in version control
+├── data/              
+├── notebooks/         
+├── src/               
+├── requirements.txt   
+├── README.md          
+└── .gitignore         
  ```
 
 ## Features
